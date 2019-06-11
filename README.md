@@ -9,9 +9,9 @@
 
 ## Background
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. I needed to convert this project from a static project to an interactive one. It required modifying the HTML and CSS files, but primarily the JavaScript file.
+A starter project of \some HTML and CSS styling to display a static version of the Memory Game project was provided. I needed to convert this project from a static project to an interactive one. It required modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To see the main work on the project, open `js/app.js` and checkout the app's functionality
+To see the main work on the project, please refer to the second release, open `js/app.js` and checkout the app's functionality
 
 
 ## Description
