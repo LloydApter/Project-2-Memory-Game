@@ -4,8 +4,8 @@
 
 * [Background](#background)
 * [Description](#discription)
-* [Version 2](#Version 2)
-* [Version 1](#Version 1)
+* [Version-2](#Version 2)
+* [Version-1](#Version 1)
 
 ## Background
 
